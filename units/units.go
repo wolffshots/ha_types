@@ -11,5 +11,8 @@ const (
 	Current         = "A"
 	Date            = None // ISO 8601
 	Distance        = "m"
+	Voltage         = "V"
+	Power           = "W"
+	Frequency       = "Hz"
 	None            = ""
 )
